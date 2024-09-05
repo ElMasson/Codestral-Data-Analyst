@@ -4,6 +4,7 @@ import os
 from main import describe_and_analyze_file
 import matplotlib.pyplot as plt
 
+
 # Configuration de l'interface utilisateur
 st.set_page_config(page_title="Codestral Data Analyst", layout="wide")
 
